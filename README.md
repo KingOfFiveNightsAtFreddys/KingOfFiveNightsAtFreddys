@@ -4,7 +4,7 @@ Milo or Mark | He/They | 23 | ISFP-T
 </h3>
 
 <p align="center">
-<a href="https://kingoffivenightsatfreddys.straw.page/">Strawpage!</a>
+<a href="https://kingoffivenightsatfreddys.straw.page/"><strong>Strawpage!</a>
 </p>
 </div>
 
