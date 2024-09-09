@@ -9,5 +9,5 @@ Milo or Mark | He/They | 23 | ISFP-T
 </div>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ad9e2997-e430-4af3-9cb5-ef8c8b25745b" style="width: 50%">
+<img src="https://github.com/user-attachments/assets/c761ff6b-76f2-4998-8422-e7ab80543839" style="width: 50%">
 </p>
